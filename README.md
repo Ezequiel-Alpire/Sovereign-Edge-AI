@@ -1,1 +1,2 @@
-# Sovereign-Edge-AI<img width="4763" height="4896" alt="Infraestructura Sovereign-Edge-AI" src="https://github.com/user-attachments/assets/a53c981e-ad13-428b-820b-fbff7faf7938" />
+![Infraestructura Sovereign-Edge-AI](https://github.com/user-attachments/assets/bb27645c-1db8-4bcc-8333-8b26774e3b91)
+
