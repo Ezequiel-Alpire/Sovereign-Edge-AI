@@ -4,5 +4,6 @@ Infraestructura del Proyecto.
 Base de datos de logs (Elasticsearch y Logstash) ⚙⏳
 Dashboard de Kibana: Visualización de amenazas ⏳⚙
 
-<img width="3947" height="3847" alt="Infraestructura Sovereign-Edge IA" src="https://github.com/user-attachments/assets/52e885d5-7be9-450a-b6ce-011c91960e28" />
+<img width="621" height="342" alt="image" src="https://github.com/user-attachments/assets/6d516bca-6fae-4f5e-b078-eb28af2482cd" />
+
 
