@@ -1,0 +1,46 @@
+filebeat.inputs:
+  - type: filestream
+    id: cowrie-logs
+    enabled: true
+
+    paths:
+      - /var/log/cowrie/cowrie.json*
+
+    parsers:
+      - ndjson:
+          target: ""
+          add_error_key: true
+
+fields:
+  log_type: cowrie
+fields_under_root: true
+
+
+processors:
+  - add_docker_metadata: {}
+
+  
+  - rename:
+      fields:
+        - from: "src_ip"
+          to: "source.ip"
+      ignore_missing: true
+
+
+output.elasticsearch:
+  hosts: ["http://elasticsearch:9200"]
+
+  #  IMPORTANTE: DESACTIVAR ILM PARA EVITAR .ds-XXXX
+  ilm.enabled: false
+
+  index: "cowrie-attacks-%{+yyyy.MM.dd}"
+
+
+setup.template.enabled: true
+setup.template.name: "cowrie-attacks"
+setup.template.pattern: "cowrie-attacks-*"
+
+setup.kibana:
+  host: "http://kibana:5601"
+
+logging.level: info

@@ -1,0 +1,20 @@
+- name: Mantenimiento automatico del servidor
+  hosts: servidores
+  become: yes
+
+  tasks:
+    - name: Actualizar la lista de programas
+      apt:
+        update_cache: yes
+
+    - name: Actualizar todo el sistema
+      apt:
+        upgrade: dist
+
+    - name: Limpiar basura y paquetes viejos
+      apt:
+        autoremove: yes
+
+    - name: Limpiar el archivo temporal de descargas
+      apt:
+        autoclean: yes

@@ -1,0 +1,263 @@
+2026-05-11T07:52:46.198241+00:00 sovereign-edge sshd[22410]: Accepted password for adminserver from 100.109.31.17 port 58020 ssh2
+2026-05-11T07:52:46.202924+00:00 sovereign-edge sshd[22410]: pam_unix(sshd:session): session opened for user adminserver(uid=1000) by adminserver(uid=0)
+2026-05-11T07:52:46.223666+00:00 sovereign-edge systemd-logind[870]: New session 30 of user adminserver.
+2026-05-11T07:55:01.258050+00:00 sovereign-edge CRON[22628]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T07:55:01.270436+00:00 sovereign-edge CRON[22628]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:05:01.289064+00:00 sovereign-edge CRON[23071]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:05:01.301303+00:00 sovereign-edge CRON[23071]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:15:01.322398+00:00 sovereign-edge CRON[23519]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:15:01.334403+00:00 sovereign-edge CRON[23519]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:17:01.350089+00:00 sovereign-edge CRON[23607]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:17:01.363267+00:00 sovereign-edge CRON[23607]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:25:01.383196+00:00 sovereign-edge CRON[23975]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:25:01.396015+00:00 sovereign-edge CRON[23975]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:35:01.417474+00:00 sovereign-edge CRON[24416]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:35:01.430604+00:00 sovereign-edge CRON[24416]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:45:01.451936+00:00 sovereign-edge CRON[24861]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:45:01.464322+00:00 sovereign-edge CRON[24861]: pam_unix(cron:session): session closed for user root
+2026-05-11T08:55:01.485616+00:00 sovereign-edge CRON[25300]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T08:55:01.497785+00:00 sovereign-edge CRON[25300]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:05:01.519272+00:00 sovereign-edge CRON[25745]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:05:01.530798+00:00 sovereign-edge CRON[25745]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:15:01.551092+00:00 sovereign-edge CRON[26196]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:15:01.563176+00:00 sovereign-edge CRON[26196]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:17:01.577321+00:00 sovereign-edge CRON[26285]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:17:01.591265+00:00 sovereign-edge CRON[26285]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:25:01.609857+00:00 sovereign-edge CRON[26652]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:25:01.621650+00:00 sovereign-edge CRON[26652]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:35:01.641329+00:00 sovereign-edge CRON[27093]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:35:01.653960+00:00 sovereign-edge CRON[27093]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:45:01.673403+00:00 sovereign-edge CRON[27513]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:45:01.685998+00:00 sovereign-edge CRON[27513]: pam_unix(cron:session): session closed for user root
+2026-05-11T09:55:01.706813+00:00 sovereign-edge CRON[27955]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T09:55:01.718628+00:00 sovereign-edge CRON[27955]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:05:01.740890+00:00 sovereign-edge CRON[28398]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:05:01.752432+00:00 sovereign-edge CRON[28398]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:15:01.771376+00:00 sovereign-edge CRON[28838]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:15:01.785280+00:00 sovereign-edge CRON[28838]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:17:01.799284+00:00 sovereign-edge CRON[28930]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:17:01.811263+00:00 sovereign-edge CRON[28930]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:25:01.829635+00:00 sovereign-edge CRON[29288]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:25:01.842197+00:00 sovereign-edge CRON[29288]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:35:01.861278+00:00 sovereign-edge CRON[29734]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:35:01.875958+00:00 sovereign-edge CRON[29734]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:45:01.895405+00:00 sovereign-edge CRON[30180]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:45:01.907353+00:00 sovereign-edge CRON[30180]: pam_unix(cron:session): session closed for user root
+2026-05-11T10:55:01.927174+00:00 sovereign-edge CRON[30622]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T10:55:01.939208+00:00 sovereign-edge CRON[30622]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:05:01.960308+00:00 sovereign-edge CRON[31076]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:05:01.973731+00:00 sovereign-edge CRON[31076]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:15:01.994389+00:00 sovereign-edge CRON[32028]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:15:02.007274+00:00 sovereign-edge CRON[32028]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:17:01.022899+00:00 sovereign-edge CRON[32122]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:17:01.034880+00:00 sovereign-edge CRON[32122]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:25:01.054461+00:00 sovereign-edge CRON[32480]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:25:01.066065+00:00 sovereign-edge CRON[32480]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:35:01.085248+00:00 sovereign-edge CRON[32904]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:35:01.097932+00:00 sovereign-edge CRON[32904]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:45:01.117723+00:00 sovereign-edge CRON[33350]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:45:01.131339+00:00 sovereign-edge CRON[33350]: pam_unix(cron:session): session closed for user root
+2026-05-11T11:55:01.152966+00:00 sovereign-edge CRON[33791]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T11:55:01.165493+00:00 sovereign-edge CRON[33791]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:05:01.185654+00:00 sovereign-edge CRON[34239]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:05:01.200337+00:00 sovereign-edge CRON[34239]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:15:01.219811+00:00 sovereign-edge CRON[34681]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:15:01.233006+00:00 sovereign-edge CRON[34681]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:17:01.246598+00:00 sovereign-edge CRON[34772]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:17:01.258846+00:00 sovereign-edge CRON[34772]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:25:01.277871+00:00 sovereign-edge CRON[35129]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:25:01.291070+00:00 sovereign-edge CRON[35129]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:35:01.310434+00:00 sovereign-edge CRON[35567]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:35:01.322758+00:00 sovereign-edge CRON[35567]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:45:01.342627+00:00 sovereign-edge CRON[36014]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:45:01.356411+00:00 sovereign-edge CRON[36014]: pam_unix(cron:session): session closed for user root
+2026-05-11T12:55:01.376912+00:00 sovereign-edge CRON[36458]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T12:55:01.389298+00:00 sovereign-edge CRON[36458]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:05:01.410155+00:00 sovereign-edge CRON[36898]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:05:01.422556+00:00 sovereign-edge CRON[36898]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:15:01.443658+00:00 sovereign-edge CRON[37344]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:15:01.455391+00:00 sovereign-edge CRON[37344]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:17:01.469380+00:00 sovereign-edge CRON[37436]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:17:01.482513+00:00 sovereign-edge CRON[37436]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:25:01.499932+00:00 sovereign-edge CRON[37772]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:25:01.512268+00:00 sovereign-edge CRON[37772]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:35:01.531958+00:00 sovereign-edge CRON[38222]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:35:01.544186+00:00 sovereign-edge CRON[38222]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:45:01.563475+00:00 sovereign-edge CRON[38661]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:45:01.576483+00:00 sovereign-edge CRON[38661]: pam_unix(cron:session): session closed for user root
+2026-05-11T13:55:01.598195+00:00 sovereign-edge CRON[39103]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T13:55:01.610060+00:00 sovereign-edge CRON[39103]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:05:01.630292+00:00 sovereign-edge CRON[39544]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:05:01.641908+00:00 sovereign-edge CRON[39544]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:15:01.662344+00:00 sovereign-edge CRON[39984]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:15:01.675289+00:00 sovereign-edge CRON[39984]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:17:01.689348+00:00 sovereign-edge CRON[40073]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:17:01.701606+00:00 sovereign-edge CRON[40073]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:25:01.722027+00:00 sovereign-edge CRON[40440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:25:01.734421+00:00 sovereign-edge CRON[40440]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:35:01.754692+00:00 sovereign-edge CRON[40880]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:35:01.768371+00:00 sovereign-edge CRON[40880]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:45:01.787934+00:00 sovereign-edge CRON[41322]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:45:01.799967+00:00 sovereign-edge CRON[41322]: pam_unix(cron:session): session closed for user root
+2026-05-11T14:55:01.818808+00:00 sovereign-edge CRON[41763]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T14:55:01.831158+00:00 sovereign-edge CRON[41763]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:05:01.850773+00:00 sovereign-edge CRON[42184]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:05:01.863647+00:00 sovereign-edge CRON[42184]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:15:01.883669+00:00 sovereign-edge CRON[42625]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:15:01.896232+00:00 sovereign-edge CRON[42625]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:17:01.910818+00:00 sovereign-edge CRON[42713]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:17:01.922356+00:00 sovereign-edge CRON[42713]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:25:01.941343+00:00 sovereign-edge CRON[43077]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:25:01.953275+00:00 sovereign-edge CRON[43077]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:35:01.973477+00:00 sovereign-edge CRON[43518]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:35:01.986430+00:00 sovereign-edge CRON[43518]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:45:02.005341+00:00 sovereign-edge CRON[43940]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:45:02.018567+00:00 sovereign-edge CRON[43940]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:55:01.039094+00:00 sovereign-edge CRON[44379]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-11T15:55:01.050702+00:00 sovereign-edge CRON[44379]: pam_unix(cron:session): session closed for user root
+2026-05-11T15:58:24.065294+00:00 sovereign-edge sshd[22410]: pam_unix(sshd:session): session closed for user adminserver
+2026-05-11T15:58:24.102405+00:00 sovereign-edge systemd-logind[870]: Session 30 logged out. Waiting for processes to exit.
+2026-05-11T15:58:24.109302+00:00 sovereign-edge systemd-logind[870]: Removed session 30.
+2026-05-12T05:45:01.611591+00:00 sovereign-edge CRON[45440]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T05:45:01.623825+00:00 sovereign-edge CRON[45440]: pam_unix(cron:session): session closed for user root
+2026-05-12T05:55:01.642915+00:00 sovereign-edge CRON[45885]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T05:55:01.655044+00:00 sovereign-edge CRON[45885]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:05:01.675417+00:00 sovereign-edge CRON[46325]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:05:01.688650+00:00 sovereign-edge CRON[46325]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:15:01.709894+00:00 sovereign-edge CRON[47417]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:15:01.722168+00:00 sovereign-edge CRON[47417]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:17:01.736761+00:00 sovereign-edge CRON[47506]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:17:01.748839+00:00 sovereign-edge CRON[47506]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:25:01.767861+00:00 sovereign-edge CRON[47860]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:25:01.771763+00:00 sovereign-edge CRON[47861]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:25:01.780944+00:00 sovereign-edge CRON[47861]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:25:01.814868+00:00 sovereign-edge CRON[47860]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:35:01.835919+00:00 sovereign-edge CRON[48312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:35:01.847351+00:00 sovereign-edge CRON[48312]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:45:01.867308+00:00 sovereign-edge CRON[48756]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:45:01.879086+00:00 sovereign-edge CRON[48756]: pam_unix(cron:session): session closed for user root
+2026-05-12T06:55:01.899010+00:00 sovereign-edge CRON[49198]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T06:55:01.912493+00:00 sovereign-edge CRON[49198]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:05:01.933144+00:00 sovereign-edge CRON[49642]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:05:01.945339+00:00 sovereign-edge CRON[49642]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:15:01.966562+00:00 sovereign-edge CRON[50080]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:15:01.978732+00:00 sovereign-edge CRON[50080]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:17:01.993182+00:00 sovereign-edge CRON[50169]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:17:02.005293+00:00 sovereign-edge CRON[50169]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:25:01.023981+00:00 sovereign-edge CRON[50499]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:25:01.036824+00:00 sovereign-edge CRON[50499]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:35:01.056719+00:00 sovereign-edge CRON[50938]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:35:01.068972+00:00 sovereign-edge CRON[50938]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:45:01.091060+00:00 sovereign-edge CRON[51375]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:45:01.102526+00:00 sovereign-edge CRON[51375]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:55:01.123960+00:00 sovereign-edge CRON[51819]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T07:55:01.136828+00:00 sovereign-edge CRON[51819]: pam_unix(cron:session): session closed for user root
+2026-05-12T07:58:44.695775+00:00 sovereign-edge sudo: adminserver : TTY=tty1 ; PWD=/home/adminserver/honeypot/elk ; USER=root ; COMMAND=/usr/bin/apt update
+2026-05-12T07:58:44.704889+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T07:58:48.290221+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T07:59:31.461119+00:00 sovereign-edge sudo: adminserver : TTY=tty1 ; PWD=/home/adminserver/honeypot/elk ; USER=root ; COMMAND=/usr/bin/apt install -y open-vm-tools open-vm-tools-desktop
+2026-05-12T07:59:31.465221+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T08:00:23.189691+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T08:00:38.098066+00:00 sovereign-edge sudo: adminserver : TTY=tty1 ; PWD=/home/adminserver/honeypot/elk ; USER=root ; COMMAND=/usr/sbin/reboot
+2026-05-12T08:00:38.102947+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T08:00:38.123877+00:00 sovereign-edge systemd-logind[870]: The system will reboot now!
+2026-05-12T08:00:38.150573+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T08:00:38.464753+00:00 sovereign-edge systemd-logind[870]: System is rebooting.
+2026-05-12T08:01:16.551735+00:00 sovereign-edge systemd-logind[922]: New seat seat0.
+2026-05-12T08:01:16.552915+00:00 sovereign-edge polkitd[916]: Loading rules from directory /etc/polkit-1/rules.d
+2026-05-12T08:01:16.552949+00:00 sovereign-edge polkitd[916]: Loading rules from directory /usr/share/polkit-1/rules.d
+2026-05-12T08:01:16.552982+00:00 sovereign-edge polkitd[916]: Finished loading, compiling and executing 6 rules
+2026-05-12T08:01:16.553051+00:00 sovereign-edge polkitd[916]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2026-05-12T08:01:16.771622+00:00 sovereign-edge systemd-logind[922]: Watching system buttons on /dev/input/event0 (Power Button)
+2026-05-12T08:01:17.346222+00:00 sovereign-edge systemd-logind[922]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+2026-05-12T08:03:33.047081+00:00 sovereign-edge login[1139]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2026-05-12T08:03:33.049792+00:00 sovereign-edge login[1139]: PAM adding faulty module: pam_lastlog.so
+2026-05-12T08:03:38.465427+00:00 sovereign-edge login[1139]: pam_unix(login:session): session opened for user adminserver(uid=1000) by adminserver(uid=0)
+2026-05-12T08:03:38.517185+00:00 sovereign-edge systemd-logind[922]: New session 1 of user adminserver.
+2026-05-12T08:03:38.616129+00:00 sovereign-edge (systemd): pam_unix(systemd-user:session): session opened for user adminserver(uid=1000) by adminserver(uid=0)
+2026-05-12T08:05:01.624315+00:00 sovereign-edge CRON[3874]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:05:01.637347+00:00 sovereign-edge CRON[3874]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:06:09.679774+00:00 sovereign-edge sshd[4029]: Server listening on 0.0.0.0 port 2222.
+2026-05-12T08:06:09.680603+00:00 sovereign-edge sshd[4029]: Server listening on :: port 2222.
+2026-05-12T08:06:17.026026+00:00 sovereign-edge sshd[4031]: Accepted password for adminserver from 192.168.1.135 port 64935 ssh2
+2026-05-12T08:06:17.030693+00:00 sovereign-edge sshd[4031]: pam_unix(sshd:session): session opened for user adminserver(uid=1000) by adminserver(uid=0)
+2026-05-12T08:06:17.045213+00:00 sovereign-edge systemd-logind[922]: New session 4 of user adminserver.
+2026-05-12T08:15:01.656788+00:00 sovereign-edge CRON[4629]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:15:01.669234+00:00 sovereign-edge CRON[4629]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:17:01.684321+00:00 sovereign-edge CRON[4701]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:17:01.696727+00:00 sovereign-edge CRON[4701]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:25:01.716295+00:00 sovereign-edge CRON[5052]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:25:01.728641+00:00 sovereign-edge CRON[5052]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:35:01.750615+00:00 sovereign-edge CRON[5526]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:35:01.764024+00:00 sovereign-edge CRON[5526]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:45:01.794118+00:00 sovereign-edge CRON[6836]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:45:01.813639+00:00 sovereign-edge CRON[6836]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:53:23.587114+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/sites-enabled ; USER=root ; COMMAND=/usr/bin/nano sovereign-ia
+2026-05-12T08:53:23.592372+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T08:55:01.838259+00:00 sovereign-edge CRON[7361]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T08:55:01.851101+00:00 sovereign-edge CRON[7361]: pam_unix(cron:session): session closed for user root
+2026-05-12T08:57:24.228271+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:00:19.352089+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/ssl ; USER=root ; COMMAND=/usr/bin/grep -R ssl_certificate /etc/nginx
+2026-05-12T09:00:19.357007+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:00:19.371919+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:00:38.511998+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/ssl ; USER=root ; COMMAND=/usr/bin/mv /etc/nginx/ssl/selfsigned.crt /etc/nginx/ssl/sovereign-edge.crt
+2026-05-12T09:00:38.517546+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:00:38.528698+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:00:38.556343+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/ssl ; USER=root ; COMMAND=/usr/bin/mv /etc/nginx/ssl/selfsigned.key /etc/nginx/ssl/sovereign-edge.key
+2026-05-12T09:00:38.561305+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:00:38.571782+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:00:53.792728+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/ssl ; USER=root ; COMMAND=/usr/bin/nano /etc/nginx/sites-available/sovereign-ia
+2026-05-12T09:00:53.797640+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:01:37.014507+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:01:43.727996+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx/ssl ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2026-05-12T09:01:43.732812+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:01:43.767304+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:05:01.872524+00:00 sovereign-edge CRON[7893]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:05:01.885309+00:00 sovereign-edge CRON[7893]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:15:01.905859+00:00 sovereign-edge CRON[8348]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:15:01.918408+00:00 sovereign-edge CRON[8348]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:16:40.325117+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/nginx ; USER=root ; COMMAND=/usr/bin/cp -r ssl/ /mnt/hgfs/anexos/
+2026-05-12T09:16:40.329758+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T09:16:40.344060+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T09:17:01.933268+00:00 sovereign-edge CRON[8456]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:17:01.947016+00:00 sovereign-edge CRON[8456]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:25:01.969465+00:00 sovereign-edge CRON[8844]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:25:01.981002+00:00 sovereign-edge CRON[8844]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:35:02.002502+00:00 sovereign-edge CRON[9281]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:35:02.015978+00:00 sovereign-edge CRON[9281]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:45:01.036652+00:00 sovereign-edge CRON[9725]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:45:01.050177+00:00 sovereign-edge CRON[9725]: pam_unix(cron:session): session closed for user root
+2026-05-12T09:55:01.069627+00:00 sovereign-edge CRON[10265]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T09:55:01.081224+00:00 sovereign-edge CRON[10265]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:03:17.942441+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/fail2ban ; USER=root ; COMMAND=/usr/bin/truncate -s 0 jail.local
+2026-05-12T10:03:17.947994+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T10:03:17.959091+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T10:03:29.051789+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/fail2ban ; USER=root ; COMMAND=/usr/bin/nano jail.local
+2026-05-12T10:03:29.056208+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T10:03:32.736202+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T10:05:01.101270+00:00 sovereign-edge CRON[10743]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:05:01.113691+00:00 sovereign-edge CRON[10743]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:05:30.984101+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/fail2ban ; USER=root ; COMMAND=/usr/bin/fail2ban-client status
+2026-05-12T10:05:30.989528+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T10:05:31.134727+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T10:05:37.977624+00:00 sovereign-edge sudo: adminserver : TTY=pts/0 ; PWD=/etc/fail2ban ; USER=root ; COMMAND=/usr/bin/fail2ban-client status sshd
+2026-05-12T10:05:37.983659+00:00 sovereign-edge sudo: pam_unix(sudo:session): session opened for user root(uid=0) by adminserver(uid=1000)
+2026-05-12T10:05:38.129716+00:00 sovereign-edge sudo: pam_unix(sudo:session): session closed for user root
+2026-05-12T10:15:01.133978+00:00 sovereign-edge CRON[11214]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:15:01.146165+00:00 sovereign-edge CRON[11214]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:17:01.160800+00:00 sovereign-edge CRON[11308]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:17:01.174087+00:00 sovereign-edge CRON[11308]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:25:01.193796+00:00 sovereign-edge CRON[11660]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:25:01.206306+00:00 sovereign-edge CRON[11660]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:35:01.227582+00:00 sovereign-edge CRON[12103]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:35:01.240377+00:00 sovereign-edge CRON[12103]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:45:01.260098+00:00 sovereign-edge CRON[12550]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:45:01.273894+00:00 sovereign-edge CRON[12550]: pam_unix(cron:session): session closed for user root
+2026-05-12T10:55:01.294391+00:00 sovereign-edge CRON[12992]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T10:55:01.307387+00:00 sovereign-edge CRON[12992]: pam_unix(cron:session): session closed for user root
+2026-05-12T11:05:01.326411+00:00 sovereign-edge CRON[13430]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T11:05:01.338769+00:00 sovereign-edge CRON[13430]: pam_unix(cron:session): session closed for user root
+2026-05-12T11:15:01.360563+00:00 sovereign-edge CRON[13876]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T11:15:01.372699+00:00 sovereign-edge CRON[13876]: pam_unix(cron:session): session closed for user root
+2026-05-12T11:17:01.387759+00:00 sovereign-edge CRON[13966]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-12T11:17:01.399948+00:00 sovereign-edge CRON[13966]: pam_unix(cron:session): session closed for user root
